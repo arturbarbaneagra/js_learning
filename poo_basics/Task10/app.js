@@ -10,4 +10,4 @@ const dividers = (number) => {
   }
 }
 
-dividers(prompt("Input the number"));18
+dividers(prompt("Input the number"));

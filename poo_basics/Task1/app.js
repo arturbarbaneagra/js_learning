@@ -1,8 +1,10 @@
 let n = prompt("Introdu o cifra de la 0 la 9");
 switch(n) {
-    case '0' : alert("Zero");
-    break;
-    case '1' : alert("Unu");
+    case '0' : 
+        alert("Zero");
+        break;
+    case '1' : 
+    alert("Unu");
     break;
     case '2' : alert("Doi");
     break;
