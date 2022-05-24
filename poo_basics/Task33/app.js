@@ -9,3 +9,4 @@ console.log(styles);
 styles.unshift("Rap");
 styles.unshift("Raggy");
 console.log(styles);
+//splice
